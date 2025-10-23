@@ -13,6 +13,7 @@ font-size: 25px;
 }
 header{
 border-bottom:(crimson);
-padding: (darkblue);
-
+margin: 2px;
+padding:10px;
+color: darkturquoise;
 }
