@@ -1,11 +1,11 @@
 body{
 background-color: darkblue;
-color: rgba(22, 170, 81, 0.808);
+color: rgba(101, 231, 153, 0.808);
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 margin: 0px;
 }
 h1{
-color: aliceblue;
+color: rgb(105, 111, 196);
 font-size: 40px;
 }
 p{
